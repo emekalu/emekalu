@@ -1,6 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/emekalu)  
-
-
 ## Hey 👋 
 
 💬 **Ask me about:** Software Quality Assurance, Software Engineering, Program Management, Swift, ReactJS, Performance, PWA, Testing, Open Source.
@@ -9,7 +6,7 @@
 - Senior Quality Assurance Engineering Lead [@Facebook](https://facebook.com)
 - Software Engineer
 - Contributer [@Jest](https://github.com/facebook/jest)
-- [12talents](https://www.12talents.com/)
+- [12talents]([https://www.12talents.com])
 
 📫 Contact: [@kalutweets](https://twitter.com/kalutweets)
 
