@@ -9,7 +9,7 @@
 - Senior Quality Assurance Engineering Lead [@Facebook](https://facebook.com)
 - Software Engineer
 - Contributer [@Jest](https://github.com/facebook/jest)
-- Co-Founder of [Creditz Music](https://www.creditzmusic.com/)
+- [12talents](https://www.12talents.com/)
 
 📫 Contact: [@kalutweets](https://twitter.com/kalutweets)
 
