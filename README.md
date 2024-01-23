@@ -6,7 +6,7 @@
 - Senior Quality Assurance Engineering Lead [@Facebook](https://facebook.com)
 - Software Engineer
 - Contributer [@Jest](https://github.com/facebook/jest)
-- [12talents](https://www.12talents.com)
+- [12talents](https://github.com/12talents)
 
 📫 Contact: [@kalutweets](https://twitter.com/kalutweets)
 
