@@ -1,11 +1,10 @@
 ## Hey 👋 
 
-💬 **Ask me about:** Software Quality Assurance, AI, Software Engineering, Program Management, Swift, ReactJS, Performance, PWA, Testing, Open Source.
+💬 **Ask me about:** Software Engineering, AI, Testing, Open Source.
 
 ⚡️ **What I do:** 
-- Senior Quality Assurance Engineering Lead [@Facebook](https://facebook.com)
+- ex. [@Meta](https://facebook.com)
 - Software Engineer
-- Contributer [@Jest](https://github.com/facebook/jest)
 - [12talents](https://github.com/12talents)
 
 📫 Contact: [@kalutweets](https://twitter.com/kalutweets)
