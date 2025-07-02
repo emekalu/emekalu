@@ -1,6 +1,6 @@
 ## Hey 👋 
 
-💬 **Ask me about:** Software Engineering, AI, Testing, Open Source.
+💬 **Ask me about:** Software Engineering · AI · Evaluations · Token Entropy Baselining · Open Source
 
 ⚡️ **What I do:** 
 - ex. [@Meta](https://facebook.com)
