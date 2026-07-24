@@ -5,7 +5,7 @@
 ⚡️ **What I do:** 
 - ex. [@Meta](https://facebook.com)
 - Software Engineer
-- [12talents](https://github.com/12talents)
+- [terraID](https://github.com/terraID)
 
 📫 Contact: [@kalutweets](https://twitter.com/kalutweets)
 
