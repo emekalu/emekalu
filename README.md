@@ -3,7 +3,7 @@
 🎨 **I specialize in:** Software Engineering · AI systems · Token Entropy Baselining for LLMs · Automation Frameworks · Software Quality Assurance · and Open Source tooling for model evaluation.
 
 ⚡️ **What I do:** 
-- Founder @[terraID](https://github.com/terraID)
+- Founder [@terraID](https://github.com/terraID)
 - ex. [@Meta](https://facebook.com)
 - Software Engineer
 
